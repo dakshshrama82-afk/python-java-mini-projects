@@ -1,9 +1,9 @@
 # python-mini-projects
-Weekly mini Python projects to practice and sharpen core programming concepts.
+mini Python and java projects to practice and sharpen core programming concepts.
 
 ## Projects
 
-### 1. To-Do List Manager
+### 1. To-Do List Manager(python)
 A menu-driven command-line to-do list built using core Python fundamentals — no external libraries.
 
 **Features:**
