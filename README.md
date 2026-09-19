@@ -18,7 +18,7 @@ A menu-driven command-line to-do list built using core Python fundamentals — n
 - `while` loops with `break`
 - User input handling
 
-  2. Expense Tracker (python)
+## 2. Expense Tracker (python)
 A command-line expense tracker that lets users log expenses, view them, calculate totals, and remove entries — all within a single session.
 
 Features:
